@@ -1,0 +1,352 @@
+body {
+    background-color: rgba(143, 142, 140, 0.774);
+    position: relative;
+    height: max-content;
+    display: inline-flexbox;
+}
+
+header {
+     background-color: rgb(235, 202, 18);
+    outline-style: solid;
+    display: grid;
+    border-radius: 10px;
+    border-color: rgb(2, 2, 2);
+}
+
+div {
+    display: contents;
+    height: 90px;
+
+}
+
+.logo {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    overflow: auto;
+    margin: 12px;
+}
+
+#navbar {
+    background-color: rgb(12, 11, 11);
+    border-bottom: solid;
+    border-top: solid;
+}
+
+
+ul {
+    display: inline-flex;
+    list-style: none;
+    margin-inline-start: 65%;
+    margin-block: auto;
+    color: aliceblue;
+}   
+
+li {
+    display: inline-block;
+    width: 25%;
+    position: relative;
+    font-size: 14px;
+    margin: 5px;
+    border: solid;
+    border-radius: 10px;
+    border-color: black;
+    background-color: rgb(241, 241, 241);
+    color: black;
+    padding: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    height: fit-content;
+}
+
+li>a {
+    color: rgb(3, 3, 3);
+}
+
+
+
+img.instintos2 {
+        position: relative;
+        display: inline-block;
+        left: 400px;
+        width: 605px;
+        top: 50px;
+        border: solid;
+        border-radius: 10px;
+}
+
+img.instintos1 {
+    display: inline-block;
+    position: relative;
+    border: solid;
+    border-radius: 10px;
+    right: 0px;
+    left: 25px;
+    top: 40px;
+    margin: 40px;
+}
+
+section.casa>h1{
+    display: inline-block;
+    position: relative;
+    font-size: 40px;
+    color: white;
+    color: aliceblue;
+    right: 250px;
+    left: 420px;
+}
+
+section.casa {
+    display: inline-block ;
+    position: relative;
+    margin-bottom: 120px;
+    color: aliceblue;
+    overflow: inherit;
+}
+section.casa>p {
+  position: relative;
+    inset-block: auto;
+    font-size: 20px;
+    text-align: right;
+    left: auto;
+    right: 570px;
+    bottom: 40px;
+    color: rgb(238, 242, 245);
+}
+
+div.footer-conteiner>h3 {
+    position: relative;
+    right: auto;
+    left: 800px;
+    margin: 30px;
+    color: aliceblue;
+}
+
+div.footer-conteiner>a {
+    position: relative;
+    border: solid;
+    border-radius: 15px;
+    margin: 25px;
+    padding: 10px;
+    background-color: rgb(248, 248, 248);
+    color: rgb(179, 162, 162);
+    border-color: rgb(255, 255, 255);
+    left: 600px;
+}
+
+
+a#boton1 {
+    position: relative;
+    left: 540px;
+    border: solid;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    border-color: black
+}
+div.hola {
+    position: relative;
+    margin: 15px;
+    
+
+}
+
+main>section>h2 {
+    position: relative;
+    bottom: 250px;
+
+}
+
+footer {
+    display: inline-block;
+    height: 220px;
+}
+
+
+img.instinto2 {
+    position: relative;
+    margin: 38px;
+    left: 400px;
+    border: solid;
+    border-radius: 10px;
+    width: 570px;
+ }
+
+ main>section.historia>h1 {
+    display: inline-block;
+    position: relative;
+    top: 150px;
+    left: 35px;
+    font-size: 40px;
+    color: white;
+    overflow: auto;
+    color: aliceblue
+ }
+
+ section.historia>p {
+    position: relative;
+    display: block;
+    bottom: auto;
+    top: 80px;
+    left: 650px;
+    margin: 50px;
+    color: aliceblue;
+ }
+
+ a#boton2 {
+    position: relative;
+    left: 786px;
+    border: solid;
+    top: 72px;
+    padding: 15px;
+    border-radius: 15px;
+    color: #f1f1f0;
+    border-color: black;
+    background-color: black;
+ }
+
+h2 {
+    position: relative;
+    bottom: 140px;
+}
+
+p {
+    position: relative;
+    bottom: 140px;
+}
+
+footer {
+    position: relative;
+    display: inline;
+    margin: 163px;
+    top: 189px;
+}
+
+div.footer-conteiner>h3 {
+    position: relative;
+    right: auto;
+    left: 470px;
+    margin: 30px;
+    color: aliceblue;
+    bottom: 150px;
+    margin-bottom: 70px;
+}
+
+div.footer-conteiner>a {
+    position: relative;
+    border: solid;
+    border-radius: 15px;
+    margin: 25px;
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    border-color: black;
+    left: 270px;
+    bottom: 150px;
+    margin-bottom: 50px;
+}
+
+img.img.contacto {
+    position: relative;
+    display: inline-block;
+    border: solid;
+    border-radius: 15px;
+    color: aliceblue;
+    width: 830px;
+    left: 160px;
+    top: 50px;
+    margin-bottom: 81px;
+}
+
+section>h4 {
+    display: inline-block;
+    position: relative;
+    margin: 0 px;
+    left: 450px;
+    font-size: xx-large;
+    font-family: inherit;
+    color: aliceblue;
+}
+
+
+article>form {
+
+    position: relative;
+    display: inline-grid;
+    left: 340px;
+    border: solid;
+    border-radius: 15px;
+    color: aliceblue;
+    padding: 30px;
+    margin: 10px;
+}
+
+form>label {
+    position: relative;
+    display: inline;
+    font-family: inherit;
+    padding: 5px;
+    border: solid;
+    border-radius: 15px;
+    margin-block: 3px;
+}
+
+input {
+    border: solid;
+    border-radius: 15px;
+    color: aliceblue;
+}
+
+label>textarea {
+    border: solid;
+    border-radius: 15px;
+    color: aliceblue;
+    padding: 5px;
+}
+
+div>h3 {
+    position: relative;
+    bottom: 140px;
+}
+
+div.footer-conteiner5>h3 {
+    position: relative;
+    left: 510px;
+    top: 0px;
+}
+
+div.footer-conteiner5>a {
+    position: relative;
+    border: solid;
+    border-radius: 15px;
+    margin: 25px;
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    border-color: black;
+    left: 300px;
+    top: 10px;
+    margin-bottom: 50px;
+}
+
+div.footer-conteiner10>a {
+    position: relative;
+    border: solid;
+    border-radius: 15px;
+    margin: 25px;
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    border-color: black;
+    left: 300px;
+    top: 10px;
+    margin-bottom: 50px;
+}
+
+div.hola1 {
+    position: relative;
+    display: inline;
+    margin: 163px;
+    top: 189px;
+}
